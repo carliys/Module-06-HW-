@@ -15,4 +15,3 @@ When I am presented with the a cities forecast, I should be able to see the icon
 
 When I search for another city, I should be able to see that cities 5 day forecast a well.
 
-!(Assets/Screen Shot 2023-04-01 at 6.14.23 PM (3).png)
