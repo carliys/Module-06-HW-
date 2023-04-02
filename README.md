@@ -15,3 +15,7 @@ When I am presented with the a cities forecast, I should be able to see the icon
 
 When I search for another city, I should be able to see that cities 5 day forecast a well.
 
+![Screenshot](/1.png)
+![Screenshot](/2.png)
+![Screenshot](/3.png)
+
