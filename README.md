@@ -1,4 +1,4 @@
-# Week-6-HW
+# Carlos Weather Forecast Dashboard
 
 ## Description
 Use the 5 Day Weather Forecast API key to retrieve a current weather information, icon, temperture, wind, amd humidity!
